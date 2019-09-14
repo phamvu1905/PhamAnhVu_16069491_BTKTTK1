@@ -85,7 +85,6 @@ public class MainActivity extends AppCompatActivity {
                         dialogInterface.dismiss();
                     }
                 });
-
                 AlertDialog alertDialog = mydialog.create();
                 alertDialog.show();
             }
